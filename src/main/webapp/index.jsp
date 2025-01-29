@@ -200,7 +200,7 @@
             <p>Deployed a four-tier banking app using Kubernetes, Docker, and MySQL, ensuring high availability and security.</p>
         </div>
         <div class="project">
-            <h3>Jenkins CI/CD Pipeline</h3>
+            <h3>Terraform</h3>
             <p>Created a robust CI/CD pipeline integrating SonarQube, Trivy, and Docker for secure and quality-focused deployments.</p>
         </div>
         <div class="project">
